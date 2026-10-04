@@ -1,4 +1,4 @@
-package com.example.smartoffice
+package com.mohamed.smartoffice
 
 import org.junit.Test
 

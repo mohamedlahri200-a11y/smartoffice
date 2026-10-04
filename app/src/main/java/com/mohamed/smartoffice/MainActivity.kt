@@ -1,4 +1,4 @@
-package com.example.smartoffice
+package com.mohamed.smartoffice
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.smartoffice.ui.theme.SmartOfficeTheme
+import com.mohamed.smartoffice.ui.theme.SmartOfficeTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

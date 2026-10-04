@@ -1,4 +1,4 @@
-package com.example.smartoffice.ui.theme
+package com.mohamed.smartoffice.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

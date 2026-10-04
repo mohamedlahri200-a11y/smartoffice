@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.smartoffice"
+    namespace = "com.mohamed.smartoffice"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.smartoffice"
+        applicationId = "com.mohamed.smartoffice"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
