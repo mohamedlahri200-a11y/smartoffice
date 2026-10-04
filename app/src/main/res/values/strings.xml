@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">smartOffice</string>
+    <string name="app_name">SmartOffice</string>
+
+    <string name="spaces_title">Espaces</string>
+    <string name="spaces_count">%1$d espace(s)</string>
+    <string name="spaces_empty">Aucun espace ne correspond à ces filtres.</string>
+    <string name="space_floor_capacity">Étage %1$d · %2$d place(s)</string>
+    <string name="filter_all">Tous</string>
+
+    <string name="space_type_desk">Bureau</string>
+    <string name="space_type_meeting_room">Salle de réunion</string>
+    <string name="space_type_phone_booth">Cabine</string>
+
+    <string name="equipment_screen">Écran</string>
+    <string name="equipment_docking_station">Station d\'accueil</string>
+    <string name="equipment_webcam">Webcam</string>
+    <string name="equipment_whiteboard">Tableau blanc</string>
+    <string name="equipment_video_conference">Visioconférence</string>
 </resources>

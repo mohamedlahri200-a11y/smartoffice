@@ -1,7 +1,6 @@
 package com.mohamed.smartoffice.domain
 
 import com.mohamed.smartoffice.domain.model.BookingStatus
-import com.mohamed.smartoffice.domain.rule.BookingRules
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
 import org.junit.Test
